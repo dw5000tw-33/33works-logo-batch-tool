@@ -33,11 +33,11 @@
 
 ### 快速上手教學圖
 
-![快速上手教學圖](docs/images/quick-start.jpg)
+![快速上手教學圖](docs/quick-start.jpg)
 
 ### 實際操作面板步驟圖
 
-![操作面板步驟圖](docs/images/panel-guide.jpg)
+![操作面板步驟圖](docs/panel-guide.jpg)
 
 ### 操作流程
 
