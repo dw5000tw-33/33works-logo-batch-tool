@@ -33,11 +33,11 @@
 
 ### 快速上手教學圖
 
-![快速上手教學圖](assets/Overview.jpg)
+![快速上手教學圖](assets/Overview.png)
 
 ### 實際操作面板步驟圖
 
-![操作面板步驟圖](assets/Instructions.jpg)
+![操作面板步驟圖](assets/Instructions.webp)
 
 ### 操作流程
 
