@@ -11,9 +11,9 @@
 
 ## 下載
 
-[⬇️ 下載 V3.0.1 完整工具包](https://github.com/dw5000tw-33/33works-logo-batch-tool/archive/refs/heads/main.zip)
+[⬇️ 直接下載 V3.0.1 精簡工具包](https://github.com/dw5000tw-33/33works-logo-batch-tool/raw/main/downloads/33_Works_Logo_Batch_Tool_V3.0.1.zip)
 
-下載後解壓縮，執行 `run_tool.bat`。第一次使用前請先安裝 Python 3.10 以上版本。
+下載包已整理為實際使用所需檔案，並內附兩張操作教學圖片。下載後解壓縮，執行 `run_tool.bat`。第一次使用前請先安裝 Python 3.10 以上版本。
 
 ## 主要功能
 
@@ -33,11 +33,11 @@
 
 ### 快速上手教學圖
 
-![快速上手教學圖](docs/quick-start.jpg)
+![快速上手教學圖](assets/Overview.jpg)
 
 ### 實際操作面板步驟圖
 
-![操作面板步驟圖](docs/panel-guide.jpg)
+![操作面板步驟圖](assets/Instructions.jpg)
 
 ### 操作流程
 
