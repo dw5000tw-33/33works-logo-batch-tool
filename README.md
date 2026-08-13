@@ -13,7 +13,7 @@
 
 目前正式定稿版本為 **V3.1.0**。
 
-> V3.1.0 下載包請放置於 `downloads/33_Works_Logo_Batch_Tool_V3.1.0.zip` 後，公開下載連結即可固定使用該檔案。
+[⬇️ 直接下載 V3.1.0 工具包](https://raw.githubusercontent.com/dw5000tw-33/33works-logo-batch-tool/main/downloads/33_Works_Logo_Batch_Tool_V3.1.0.zip)
 
 下載後解壓縮，執行 `run_tool.bat`。第一次使用前請先安裝 Python 3.10 以上版本。
 
