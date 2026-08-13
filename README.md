@@ -1,4 +1,4 @@
-# 33 Works Logo 批次加圖工具 V3
+# 33 Works Logo 批次加圖工具 V3.1.0
 
 一套從實際工作流程出發製作的免費圖片批次工具。
 
@@ -11,9 +11,11 @@
 
 ## 下載
 
-[⬇️ 直接下載 V3.0.1 精簡工具包](https://github.com/dw5000tw-33/33works-logo-batch-tool/raw/main/downloads/33_Works_Logo_Batch_Tool_V3.0.1.zip)
+目前正式定稿版本為 **V3.1.0**。
 
-下載包已整理為實際使用所需檔案，並內附兩張操作教學圖片。下載後解壓縮，執行 `run_tool.bat`。第一次使用前請先安裝 Python 3.10 以上版本。
+> V3.1.0 下載包請放置於 `downloads/33_Works_Logo_Batch_Tool_V3.1.0.zip` 後，公開下載連結即可固定使用該檔案。
+
+下載後解壓縮，執行 `run_tool.bat`。第一次使用前請先安裝 Python 3.10 以上版本。
 
 ## 主要功能
 
@@ -33,11 +35,11 @@
 
 ### 快速上手教學圖
 
-![快速上手教學圖](assets/Overview.png)
+![快速上手教學圖](assets/quick-start.jpg)
 
 ### 實際操作面板步驟圖
 
-![操作面板步驟圖](assets/Instructions.webp)
+![實際操作面板步驟圖](assets/panel-guide.jpg)
 
 ### 操作流程
 
@@ -68,14 +70,15 @@
 
 ## 執行方式
 
-### 已安裝 Python
+### 一般使用
 
-1. 安裝 Python 3.10 以上版本
-2. 執行 `run_tool.bat`
+1. 下載並解壓縮工具包
+2. 確認已安裝 Python 3.10 以上版本
+3. 執行 `run_tool.bat`
 
 ### 建置 Windows 執行檔
 
-執行 `build_windows_exe.bat`。
+如需自行建置 Windows 執行檔，可執行 `build_windows_exe.bat`。
 
 ## 回饋與更新
 
